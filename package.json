@@ -1,0 +1,16 @@
+{
+  "name": "n1016510_major_project_contracts",
+  "version": "1.0.0",
+  "description": "Anudeep Jami Major Project Solidity Contracts",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "solidity",
+    "mocha",
+    "ganache"
+  ],
+  "author": "Anudeep Jami N1016510",
+  "license": "ISC"
+}
